@@ -1,0 +1,9 @@
+{
+  "name": "hexo-cake-math",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/jiangtj-lab/hexo-cake-math",
+  "author": "Mr.J",
+  "license": "LGPL-3.0",
+  "private": false
+}
