@@ -7,7 +7,7 @@
   "license": "LGPL-3.0",
   "private": false,
   "dependencies": {
-    "hexo-cake-utils": "^1.0.0",
+    "hexo-cake-utils": "^1.1.1",
     "js-yaml": "^3.13.1"
   }
 }
