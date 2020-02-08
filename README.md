@@ -2,6 +2,13 @@
 
 [![Theme](https://img.shields.io/badge/Theme-Cake:1.1.0-blue.svg)](https://github.com/jiangtj/hexo-theme-cake)
 
+## Not maintained
+
+Because I'm not familiar with math, the following `hexo-filter-mathjax-ssr` can work very well, and the official plugin can also be followed
+
+- [hexo-filter-mathjax-ssr](https://github.com/ikeq/hexo-filter-mathjax-ssr)
+- [hexo-math](https://github.com/hexojs/hexo-math)
+
 ## How to use
 ```bash
 yarn add hexo-cake-math
